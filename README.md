@@ -1,4 +1,1 @@
-# things
-# things
-# things
-# things
+Collection of hosts files from across the web
